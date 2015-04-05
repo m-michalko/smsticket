@@ -1,0 +1,1 @@
+Application allowing to buy public transport tickets by sending sms, with configurable protocol (configurable request SMS and configurable response validation and parsing)
